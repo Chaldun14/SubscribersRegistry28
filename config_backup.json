@@ -1,0 +1,24 @@
+{
+    "theme": "dark",
+    "scale": 1.0,
+    "font_family": "Verdana",
+    "window": {
+        "width": 1300,
+        "height": 700
+    },
+    "backup": {
+        "enabled": true,
+        "interval_value": 1,
+        "interval_unit": "minutes",
+        "max_backups": 10
+    },
+    "notifications": {
+        "sound_enabled": true,
+        "dialogs_enabled": true,
+        "tray_notifications": true
+    },
+    "hotkeys_enabled": true,
+    "tips_enabled": true,
+    "log_level": "INFO",
+    "auto_cleanup_days": 10
+}

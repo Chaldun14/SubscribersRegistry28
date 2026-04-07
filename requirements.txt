@@ -1,0 +1,7 @@
+# requirements.txt
+customtkinter
+Pillow
+pystray
+plyer
+reportlab
+pyinstaller
